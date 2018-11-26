@@ -1,0 +1,11 @@
+/Users/wMadwand/GameDev/Education/DesignPatternsGangThe4/Singleton/bin/Debug/netcoreapp2.1/Singleton.deps.json
+/Users/wMadwand/GameDev/Education/DesignPatternsGangThe4/Singleton/bin/Debug/netcoreapp2.1/Singleton.runtimeconfig.json
+/Users/wMadwand/GameDev/Education/DesignPatternsGangThe4/Singleton/bin/Debug/netcoreapp2.1/Singleton.runtimeconfig.dev.json
+/Users/wMadwand/GameDev/Education/DesignPatternsGangThe4/Singleton/bin/Debug/netcoreapp2.1/Singleton.dll
+/Users/wMadwand/GameDev/Education/DesignPatternsGangThe4/Singleton/bin/Debug/netcoreapp2.1/Singleton.pdb
+/Users/wMadwand/GameDev/Education/DesignPatternsGangThe4/Singleton/obj/Debug/netcoreapp2.1/Singleton.csprojAssemblyReference.cache
+/Users/wMadwand/GameDev/Education/DesignPatternsGangThe4/Singleton/obj/Debug/netcoreapp2.1/Singleton.csproj.CoreCompileInputs.cache
+/Users/wMadwand/GameDev/Education/DesignPatternsGangThe4/Singleton/obj/Debug/netcoreapp2.1/Singleton.AssemblyInfoInputs.cache
+/Users/wMadwand/GameDev/Education/DesignPatternsGangThe4/Singleton/obj/Debug/netcoreapp2.1/Singleton.AssemblyInfo.cs
+/Users/wMadwand/GameDev/Education/DesignPatternsGangThe4/Singleton/obj/Debug/netcoreapp2.1/Singleton.dll
+/Users/wMadwand/GameDev/Education/DesignPatternsGangThe4/Singleton/obj/Debug/netcoreapp2.1/Singleton.pdb
